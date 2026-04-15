@@ -15,3 +15,7 @@ Change file name to simulation_results_1.npz
 Run 3:
 Change value in create_tables(___) to 10000
 Change file name to simulation_results_2.npz
+
+
+
+Some plots look a little misaligned because I use VScode in potrait mode
